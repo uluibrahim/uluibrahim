@@ -17,7 +17,7 @@
 
 ###  💻 I'm currently working/learning on
 
-<code><a href="https://developer.android.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
+<code><a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 
 
 ### 🧠 Know / Using
