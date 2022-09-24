@@ -10,7 +10,7 @@
 
 <p float="center">
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=uluibrahim&theme=dracula&count_private=true&hide=issues" alt="A.Oğuz's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=uluibrahim&theme=dracula&count_private=true&hide=issues" alt="Uluibrahim's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluibrahim&theme=dracula&layout=compact&hide=html,css,hack" alt="ETop Langs" /> 
 </p>
 
